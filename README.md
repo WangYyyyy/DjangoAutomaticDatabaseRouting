@@ -87,7 +87,7 @@ Django-1.11.3
    (AutomaticMultipleDatabases) ➜  AutoMultDataDemo git:(master) ✗ python manage.py startapp app3  
    ```
 
-7. 配置多数据库
+7. 配置多数据库([settings.py](https://github.com/WangYyyyy/DjangoAutomaticDatabaseRouting/blob/master/AutomaticMultipleDatabases/AutoMultDataDemo/AutoMultDataDemo/settings.py))
 
    关键代码:
 
@@ -112,7 +112,7 @@ Django-1.11.3
    }
    ```
 
-8. 配置settings.py以及加入DatabaseAppsRouter文件
+8. 配置路由配置([settings.py](https://github.com/WangYyyyy/DjangoAutomaticDatabaseRouting/blob/master/AutomaticMultipleDatabases/AutoMultDataDemo/AutoMultDataDemo/settings.py))以及加入DatabaseAppsRouter文件([database_router.py](https://github.com/WangYyyyy/DjangoAutomaticDatabaseRouting/blob/master/AutomaticMultipleDatabases/AutoMultDataDemo/AutoMultDataDemo/database_router.py))
 
    关键代码:
 
