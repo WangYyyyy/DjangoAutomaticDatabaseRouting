@@ -1,0 +1,2 @@
+# DjangoAutomaticDatabaseRouting
+django多数据库自动化路由分配的demo
